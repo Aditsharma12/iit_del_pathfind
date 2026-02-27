@@ -12,7 +12,7 @@ Scoring: 1000 - PathLength - 50 * Violations
 
 
 DEPENDENCIES
-------------
+--------------
 Python 3.8 or newer is required.
 
 Install dependencies:
