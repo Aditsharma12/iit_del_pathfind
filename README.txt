@@ -2,7 +2,7 @@ Urban Mission Planning Challenge — README
 ==========================================
 
 OVERVIEW
---------
+----------
 This solution finds road-constrained paths between two pixel coordinates
 in high-resolution satellite images. Given a satellite TIFF and start/goal
 pixel coordinates, it outputs a JSON file with waypoints that travel along roads.
