@@ -1,0 +1,8 @@
+# Urban Mission Planning Challenge — Requirements
+# Install with: pip install -r requirements.txt
+
+numpy>=1.21
+Pillow>=9.0
+tifffile>=2022.0
+scipy>=1.7
+opencv-python-headless>=4.5
